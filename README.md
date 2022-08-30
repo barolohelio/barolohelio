@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/h%C3%A9lio-barolo-47a441195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.barolo.dev.br/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/barolohelio/barolohelio/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
