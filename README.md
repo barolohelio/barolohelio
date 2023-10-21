@@ -14,7 +14,9 @@
   <img align="center" alt="Helio-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Helio-IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
   <img align="center" alt="Helio-IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <a href="https://devicons.dev.br/icons?icon=AWS,Nginx,VIM,Bash,Docker,GitLab,Github,PostgreSQL,Instagram&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          
+  
   
   
                 
