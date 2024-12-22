@@ -7,13 +7,13 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Helio-IOS" height="30" width="40" src="https://simpleicons.org/icons/amazonwebservices.svg" />               
-  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />               
-  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />               
-  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />               
-  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />               
-  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />               
-  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />               
-  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />   
+  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://simpleicons.org/icons/docker.svg" />               
+  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://simpleicons.org/icons/mysql.svg" />               
+  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://simpleicons.org/icons/postgresql.svg" />               
+  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://simpleicons.org/icons/vim.svg" />               
+  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://simpleicons.org/icons/gnubash.svg" />               
+  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://simpleicons.org/icons/gitlab.svg" />               
+  <img align="center" alt="Helio-IOS" height="30" width="40" src="https://simpleicons.org/icons/github-original.svg" />   
   <img align="center" alt="Helio-IOS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />   
   <img align="center" alt="Helio-IOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />                      
   <img align="center" alt="Helio-IOS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />        
