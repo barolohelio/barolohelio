@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<div align="center" style="width: 100%; display: flex; justify-content: center;">
+<!--div align="center" style="width: 100%; display: flex; justify-content: center;">
   <a href="https://github.com/barolohelio">
     <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barolohelio&layout=compact&langs_count=7&theme=outrun"/>
   </a>
-</div>
+</div-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Amazon Web Services" height="30" width="40" src="https://simpleicons.org/icons/amazonwebservices.svg" />               
   <img align="center" alt="Cloudflare" height="30" width="40" src="https://simpleicons.org/icons/cloudflare.svg" />               
