@@ -6,7 +6,7 @@
   </a>
 </div-->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Amazon Web Services" height="30" width="40" src="https://simpleicons.org/icons/amazonwebservices.svg" />               
+  <img align="center" alt="Amazon Web Services" height="30" width="40" src="https://www.svgrepo.com/show/448266/aws.svg" />               
   <img align="center" alt="Cloudflare" height="30" width="40" src="https://simpleicons.org/icons/cloudflare.svg" />               
   <img align="center" alt="Docker" height="30" width="40" src="https://simpleicons.org/icons/docker.svg" />               
   <img align="center" alt="Apache2" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />                      
