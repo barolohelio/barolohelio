@@ -1,43 +1,90 @@
-### Hi there 👋
+# Olá, eu sou Helio 👋
 
-<!--div align="center" style="width: 100%; display: flex; justify-content: center;">
-  <a href="https://github.com/barolohelio">
-    <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barolohelio&layout=compact&langs_count=7&theme=outrun"/>
-  </a>
-</div-->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Amazon Web Services" height="30" width="40" src="https://www.svgrepo.com/show/448266/aws.svg" />               
-  <img align="center" alt="Cloudflare" height="30" width="40" src="https://simpleicons.org/icons/cloudflare.svg" />               
-  <img align="center" alt="Docker" height="30" width="40" src="https://simpleicons.org/icons/docker.svg" />               
-  <img align="center" alt="Apache2" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />                      
-  <img align="center" alt="Nginx" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />       
-  <img align="center" alt="Vim" height="30" width="40" src="https://simpleicons.org/icons/vim.svg" />               
-  <img align="center" alt=" Bash" height="30" width="40" src="https://simpleicons.org/icons/gnubash.svg" />               
-  <img align="center" alt="Linux" height="30" width="40" src="https://simpleicons.org/icons/linux.svg" />               
-  <img align="center" alt="MySQl" height="30" width="40" src="https://simpleicons.org/icons/mysql.svg" />               
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://simpleicons.org/icons/postgresql.svg" />               
-  <img align="center" alt="Mongo" height="30" width="40" src="https://www.svgrepo.com/show/373845/mongo.svg" />               
-  <img align="center" alt="Redis" height="30" width="40" src="https://simpleicons.org/icons/redis.svg" />             
-  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://simpleicons.org/icons/rabbitmq.svg" />             
-  <img align="center" alt="Pm2" height="30" width="40" src="https://simpleicons.org/icons/pm2.svg" />             
-  <img align="center" alt="MavenApache" height="30" width="40" src="https://simpleicons.org/icons/apachemaven.svg" />               
-  <img align="center" alt="Node" height="30" width="40" src="https://simpleicons.org/icons/nodedotjs.svg" />               
-  <img align="center" alt="php" height="30" width="40" src="https://simpleicons.org/icons/php.svg" />    
-  <img align="center" alt="Java" height="30" width="40" src="https://www.svgrepo.com/show/452234/java.svg" />    
-  <img align="center" alt="Gitlab" height="30" width="40" src="https://simpleicons.org/icons/gitlab.svg" />               
-  <img align="center" alt="Bitbucket" height="30" width="40" src="https://simpleicons.org/icons/bitbucket.svg" />               
-  <img align="center" alt="Github" height="30" width="40"  src="https://simpleicons.org/icons/github.svg" /> 
-</div>
-<div> 
-  <a href="mailto:barolohelio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/h%C3%A9lio-barolo-47a441195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!-- ![Snake animation](https://github.com/barolohelio/barolohelio/blob/output/github-contribution-grid-snake.svg) -->
-</div>
+Sou um profissional de **DevOps / Infraestrutura Cloud** com foco em construir, automatizar e evoluir ambientes em nuvem, com forte atuação em **AWS, Infraestrutura como Código, observabilidade, segurança e escalabilidade**.
 
-<!--
-**barolohelio/barolohelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo no dia a dia com arquiteturas modernas de infraestrutura, pipelines de CI/CD, orquestração de containers, monitoramento e práticas de otimização de custos em cloud.
 
-Here are some ideas to get you started:
+---
 
-- +_+  I’m currently on Vacation
--->
+## Certificações
+
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%E2%80%93%20Associate-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/0e0b7fd3-b7e7-48c2-ac90-72a0c2d1a5eb/public_url)
+
+---
+
+## 🚀 Sobre mim
+
+- ☁️ Forte atuação em **AWS**
+- 🏗️ Experiência com **arquitetura de soluções e práticas DevOps**
+- 📦 Trabalho com **ECS, EKS, EC2, Lambda, RDS, ElastiCache, S3, CloudWatch, IAM**
+- 🔧 Uso intensivo de **Terraform** para provisionamento e padronização
+- 🔁 Criação e evolução de **pipelines CI/CD**
+- 📊 Interesse em **observabilidade**, com foco em **Datadog**, **CloudWatch** e **OpenTelemetry**
+- 🔐 Atenção constante em **segurança, governança e confiabilidade operacional**
+- 📉 Foco em **otimização de custos**, uso de Spot, autoscaling e melhor aproveitamento de recursos
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### Cloud e Infraestrutura
+- AWS
+- Terraform
+- Docker
+- Kubernetes
+- ECS
+- EKS
+- EC2
+- Lambda
+- RDS
+- ElastiCache / Redis
+- S3
+- IAM
+- ALB / NLB
+- Route 53
+- CloudWatch
+
+### DevOps e Plataforma
+- CI/CD
+- GitHub Actions
+- CodeBuild
+- CodePipeline
+- Shell Script
+- Linux
+- Nginx
+- Apache
+
+### Observabilidade e Monitoramento
+- Datadog
+- OpenTelemetry
+- CloudWatch Logs / Metrics / Alarms
+- Monitoramento de ECS / Docker
+- Troubleshooting de aplicações e infraestrutura
+
+### Outras Tecnologias
+- Python
+- Java
+- PHP
+- Node.js
+- MongoDB
+- PostgreSQL
+- Redis
+
+---
+
+## 📌 Áreas de interesse
+
+- Infraestrutura como Código em escala
+- Boas práticas de arquitetura na AWS
+- Ambientes com ECS e EKS
+- Ambientes resilientes e tolerantes a falhas
+- DevSecOps
+- Governança em cloud
+- Otimização de custos
+- Observabilidade e tracing
+- Platform Engineering
+- Automação para operações e experiência do desenvolvedor
+
+---
+
+
