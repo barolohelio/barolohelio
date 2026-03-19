@@ -8,6 +8,12 @@ Atuo no dia a dia com arquiteturas modernas de infraestrutura, pipelines de CI/C
 
 ## Certificações
 
+<p align="left">
+  <a href="https://www.credly.com/badges/0e0b7fd3-b7e7-48c2-ac90-72a0c2d1a5eb/public_url">
+    <img src="https://barolo.art.br/assets/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate" width="140" />
+  </a>
+</p>
+
 [![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%E2%80%93%20Associate-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/0e0b7fd3-b7e7-48c2-ac90-72a0c2d1a5eb/public_url)
 
 ---
